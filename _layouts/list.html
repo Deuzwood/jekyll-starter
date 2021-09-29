@@ -13,7 +13,7 @@
     <div class="row">
       {% for post in site.posts %}
       <div class="col-md-3">
-        <a href="{{ post.url }}" class="text-decoration-none text-reset">
+        <a href="/jekyll-starter/{{ post.url }}" class="text-decoration-none text-reset">
           <div class="card">
             <div class="card-body">
               <h5 class="card-title">{{ post.title }}</h5>
@@ -26,7 +26,6 @@
       {% endfor %}
     </div>
 
-  </div>
   </div>
 
 {% include footer.html %}

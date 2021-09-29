@@ -1,3 +1,4 @@
 title: "Jekyll Actions"
+baseurl: /jekyll-starter
 plugins:
   - jekyll-timeago
