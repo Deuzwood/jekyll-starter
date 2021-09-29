@@ -5,9 +5,9 @@ title: About this project
 
 # About
 
-This project is a little Jekyll template that can be use as starter
+This project is a simple Jekyll template that can be used as starter.
 
-# Files
+## Files
 
 ```
 .

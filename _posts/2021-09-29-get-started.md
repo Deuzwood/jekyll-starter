@@ -5,8 +5,6 @@ title:  "Get Started"
 
 # Get Started
 
-**Hello world**, this is my first Jekyll blog post.
-
 ## Installation
 
 ```bundle install ```
